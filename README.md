@@ -1,4 +1,4 @@
 sepehr
 ======
 
-this repository belongs to me(Saifuddin Sepehr) motawajeh bashi doste aziz
+this repository belongs to 8th Software Engineering Project, CS Faculty, Herat University
